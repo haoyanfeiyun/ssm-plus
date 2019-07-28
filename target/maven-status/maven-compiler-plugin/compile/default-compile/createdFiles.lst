@@ -1,0 +1,4 @@
+com\haohao\domain\TestBean.class
+com\haohao\controller\TestController.class
+com\haohao\dao\mapper\TestBeanMapper.class
+com\haohao\domain\Test.class
